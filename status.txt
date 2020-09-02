@@ -1,0 +1,1 @@
+{"mem_total": "7,5Gi", "mem_usage": "2,8Gi", "last_update": "23:53 29/08/2020", "uptime": " 11 hours, 9 minutes"}
